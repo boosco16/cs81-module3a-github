@@ -14,3 +14,7 @@ function isEven(num) {
 function reverseString(str) {
   return str.split("").reverse().join("")
 }
+// Find the max of two numbers
+function max(a, b) { 
+  return a > b ? a : b;
+}
