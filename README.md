@@ -3,7 +3,7 @@ cs81 module 3a
 
 
 function greet(name) 
-= greet usaer by name 
+= greet user by name 
 
 
 function isEven(num)
