@@ -14,3 +14,6 @@ function reverseString()
 
 function add(a, b)
 = Adds two numbers together
+
+function max(a, b) 
+= Returns the larger of two numbers
